@@ -1,0 +1,4 @@
+<#int hola: 30+10;
+{
+<#string saludo: 'Hola';
+} 

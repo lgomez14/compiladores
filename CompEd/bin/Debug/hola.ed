@@ -1,0 +1,4 @@
+<#init num: 30;
+{
+ <#string saludo : 'Hola';
+}

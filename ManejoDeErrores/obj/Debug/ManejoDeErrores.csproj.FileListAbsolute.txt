@@ -1,0 +1,22 @@
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+C:\Users\luisg\OneDrive\Escritorio\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+C:\Users\luisg\OneDrive\Escritorio\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\luisg\OneDrive\Escritorio\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+C:\Users\luisg\OneDrive\Escritorio\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb

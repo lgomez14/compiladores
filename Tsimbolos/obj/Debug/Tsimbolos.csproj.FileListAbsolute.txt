@@ -1,0 +1,32 @@
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.CopyComplete
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+C:\Users\luisg\OneDrive\Documentos\Luis Gomez\Septimo Semetre\Compiladores\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.AssemblyReference.cache
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.CoreCompileInputs.cache
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.CopyComplete
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+C:\Users\luisg\OneDrive\Escritorio\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
